@@ -44,16 +44,16 @@ Progress Harian (Diupdate tiap hari)
 Daily Scrum
 (Abidin):
 1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya.. 
-3. Saya ada kendala di..
+2. Hari ini saya installasi bespoke & mencari informasi apa itu "Github"
+3. Saya ada kendala di saat installasi paket node.js "yo"
 
 (Irwan):
-1.
-2.
-3.
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya installasi bespoke
+3. Saya ada kendala di saat installasi paket-paket node.js 
 
 (Wilson Chairil):
-1.
-2.
-3.
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya bergabung dengan kelompok soGit
+3. Saya ada kendala di saat installasi generator bespoke
 
