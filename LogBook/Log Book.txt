@@ -1,0 +1,59 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: soGit
+Judul Topik: Social Coding in Github
+Alamat Github: https://github.com/tianboyand/project-tkppl
+Alamat Trello: https://trello.com/b/pkPdA0S0/social-coding-in-github
+Anggota 1
+	Nama: Septian Rahman
+	NIM: 121111559
+
+
+Anggota 2
+	Nama: Abidin
+	NIM: 121110456
+
+
+Anggota 3
+	Nama: Irwan
+	NIM: 121110464
+
+Anggota 4
+	Nama: Wilson Chairil
+	NIM: 121110359
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Septian Rahman (121111559)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Abidin):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya.. 
+3. Saya ada kendala di..
+
+(Irwan):
+1.
+2.
+3.
+
+(Wilson Chairil):
+1.
+2.
+3.
+
