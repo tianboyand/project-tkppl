@@ -43,17 +43,17 @@ Progress Harian (Diupdate tiap hari)
 26/5 
 Daily Scrum
 (Abidin):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya installasi bespoke & mencari informasi apa itu "Github"
-3. Saya ada kendala di saat installasi paket node.js "yo"
+1. Semalam saya installasi bespoke & mencari informasi apa itu "Github"
+2. Hari ini saya installasi, konfigurasi & tes koloborasi di source tree
+3. Saya ada kendala di saat konfigurasi push error karena tidak ada permissions
+
 
 (Irwan):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya installasi bespoke
+1. Semalam saya installasi bespoke
+2. Hari ini saya installasi, konfigurasi & tes koloborasi di source tree
 3. Saya ada kendala di saat installasi paket-paket node.js 
 
 (Wilson Chairil):
-1. Semalam saya.. (abaikan jika hari pertama)
-2. Hari ini saya bergabung dengan kelompok soGit
-3. Saya ada kendala di saat installasi generator bespoke
-
+1. Semalam saya bergabung dengan kelompok soGit
+2. Hari ini saya ..
+3. Saya ada kendala di saat ..
