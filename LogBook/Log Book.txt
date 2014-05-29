@@ -89,3 +89,23 @@ Daily Scrum
   1. Semalam saya ..
   2. Hari ini saya git clone repository dan commit dan push slide sesuai sprint
   3. Saya ada kendala di clone repository
+
+29/5 
+Daily Scrum
+  (Septian Rahmat):
+  1. Semalam saya mencari GitHub for windows
+  2. Hari ini saya commit dan push slide sesuai sprint
+  3. tidak ada kendala hari ini
+
+  (Irwan):
+  1. Semalam saya mencari fungsi github
+  2. Hari ini saya commit dan push slide sesuai sprint
+  3. tidak ada kendala
+
+  (Wilson Chairil):
+  1. Semalam saya mencari manfaat github
+  2. Hari ini saya commit dan push slide sesuai sprnt
+  3. Saya ada kendala di clone repository
+
+30/5
+Daily Scrum
