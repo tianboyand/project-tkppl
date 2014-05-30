@@ -1,3 +1,4 @@
+@import url("http://fonts.googleapis.com/css?family=Lato");
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -240,18 +241,19 @@ body {
   color: #eee;
 }
 h1 {
-  font-size: 72px;
+  font-size: 62px;
   line-height: 82px;
   letter-spacing: -2px;
   margin-bottom: 16px;
 }
 h2 {
   font-size: 42px;
+  text-transform: uppercase;
   letter-spacing: -1px;
   margin-bottom: 8px;
 }
 h3 {
-  font-size: 24px;
+  font-size: 14px;
   font-weight: normal;
   margin-bottom: 24px;
   color: #eee;
