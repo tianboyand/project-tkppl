@@ -107,5 +107,19 @@ Daily Scrum
   2. Hari ini saya commit dan push slide sesuai sprnt
   3. Saya ada kendala di clone repository
 
-30/5
+30/5 
 Daily Scrum
+  (Septian Rahmat):
+  1. Semalam saya mencari Akun GitHub
+  2. Hari ini saya commit dan push Cara membuat Account Baru di GitHub
+  3. tidak ada kendala hari ini
+
+  (Irwan):
+  1. Semalam saya mencari Informasi mengenai Repository GitHub
+  2. Hari ini saya commit dan push slide mengenai Sejarah GitHub
+  3. tidak ada kendala
+
+  (Wilson Chairil):
+  1. Semalam saya mencari informasi mengenai Kolaborasi di GitHub
+  2. Hari ini saya commit dan push slide mengenai Verifikasi Email
+  3. tidak ada kendala hari ini
