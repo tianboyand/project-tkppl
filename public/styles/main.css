@@ -241,13 +241,15 @@ body {
   color: #eee;
 }
 h1 {
-  font-size: 62px;
+  font-size: 52px;
   line-height: 82px;
   letter-spacing: -2px;
   margin-bottom: 16px;
+  text-shadow: 0px 0px 9px #f00;
 }
 h2 {
-  font-size: 42px;
+  font-size: 29px;
+  text-shadow: 0px 0px 9px #f00;
   text-transform: uppercase;
   letter-spacing: -1px;
   margin-bottom: 8px;
@@ -269,8 +271,14 @@ li {
   margin-bottom: 12px;
 }
 p {
+  font-size: 12px;
   margin: 0 30px 12px;
+  text-align: left;
   line-height: 22px;
+}
+li {
+  text-align: left;
+  font-size: 12px;
 }
 a {
   color: #13daec;
