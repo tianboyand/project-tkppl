@@ -93,33 +93,50 @@ Daily Scrum
 29/5 
 Daily Scrum
   (Septian Rahmat):
-  1. Semalam saya mencari GitHub for windows
-  2. Hari ini saya commit dan push slide sesuai sprint
+  1. Semalam saya mencari "GitHub for windows"
+  2. Hari ini saya mencari informasi tentang "Akun GitHub"
   3. tidak ada kendala hari ini
 
   (Irwan):
-  1. Semalam saya mencari fungsi github
-  2. Hari ini saya commit dan push slide sesuai sprint
+  1. Semalam saya mencari informasi tentang "fungsi github"
+  2. Hari ini saya mencari informasi mengenai "Repository github"
   3. tidak ada kendala
 
   (Wilson Chairil):
-  1. Semalam saya mencari manfaat github
-  2. Hari ini saya commit dan push slide sesuai sprnt
+  1. Semalam saya mencari "manfaat github"
+  2. Hari ini saya mencari informasi tentang "Kolaborasi di GitHub"
   3. Saya ada kendala di clone repository
 
 30/5 
 Daily Scrum
   (Septian Rahmat):
-  1. Semalam saya mencari Akun GitHub
-  2. Hari ini saya commit dan push Cara membuat Account Baru di GitHub
+  1. Semalam saya mencari informasi tentang "Akun GitHub"
+  2. Hari ini saya mencari informasi tentang "Cara membuat Account Baru di GitHub"
   3. tidak ada kendala hari ini
 
   (Irwan):
-  1. Semalam saya mencari Informasi mengenai Repository GitHub
-  2. Hari ini saya commit dan push slide mengenai Sejarah GitHub
+  1. Semalam saya mencari Informasi mengenai "Repository GitHub"
+  2. Hari ini saya mencari informasi mengenai "Sejarah GitHub"
   3. tidak ada kendala
 
   (Wilson Chairil):
-  1. Semalam saya mencari informasi mengenai Kolaborasi di GitHub
-  2. Hari ini saya commit dan push slide mengenai Verifikasi Email
+  1. Semalam saya mencari informasi mengenai "Kolaborasi di GitHub"
+  2. Hari ini saya mencari informasi mengenai "Verifikasi Email"
+  3. tidak ada kendala hari ini
+
+31/5 
+Daily Scrum
+  (Septian Rahmat):
+  1. Semalam saya mencari Cara membuat Account baru di GItHub
+  2. Hari saya mencari Informasi mengenai "Pengaturan SSH"
+  3. tidak ada kendala hari ini
+
+  (Irwan):
+  1. Semalam saya mencari Informasi tentang "Sejarah GitHub"
+  2. Hari ini saya mencari informasi mengenai "Cara membuat Repository Baru"
+  3. tidak ada kendala
+
+  (Wilson Chairil):
+  1. Semalam saya mencari informasi tentang "Verifikasi Email"
+  2. Hari ini saya mencari "Cara Clone Repository di Server ke komputer Lokal kita"
   3. tidak ada kendala hari ini
