@@ -102,6 +102,26 @@ html
         p Verifikasi email dibutuhkan terutama untuk mengaktifkan protocol SSH yang akan kita gunakan nantinya untuk melakukan push ke Github. Masuk ke menu Setting, dan pilih options Emails. Kemudian klik tombol Verify. Github akan mengirim anda email verifikasi. Silakan buka inbox email anda kemudian klik link yang disertakan di email tersebut
 
       section(data-bespoke-state='emphatic')
+        h2 3. Cara Membuat Repositary Baru
+        p Dalam menggunakan Version controll, anda akan selalu melakukan Commit pada Git, tempat tersebut dinamakan sebuah repository. Dan untuk menyimpan project yang anda buat pada GitHub, anda perlu memiliki GitHub Repository. Berikut ini adalah cara untuk membuat repository pada GitHub. Click New repository. Selanjutnya masukkan informasi tentang anda. jika sudah di isi, selanjutnya click “Create Repository.” Kalau sudah sampai tahap ini, anda sudah mempunyai repository nya.
+
+      section(data-bespoke-state='emphatic')
+        h2 4. Pengaturan SSH
+        p Github menyediakan 2 cara umum untuk melakukan koneksi ke repository kita. Yaitu dengan protocol https dan SSH. Memakai protocol SSH lebih aman dan nyaman karena kita tidak perlu memasukkan username dan password Github kita tiap kali kita melakukan Push. Untuk mengaktifkan protocol SSH di Github kita, terlebih dahulu kita harus men-setting SSH di komputer lokal kita. Kita generate dulu public key untuk SSH kita
+
+      
+      section(data-bespoke-state='emphatic')
+        h2 5. Clone repository
+        P Cara clone repository ke komputer kita :
+        ul
+          li 1. Copykan alamat lokasi project url kita di github.com
+          li 2. Kemudian buka sourtree > pilih clone/new
+          li 3. Paste alamat url kita pada baris source patch/url
+          li 4. Pilih lokasi penyimpanan
+          li 5. Lalu pilih clone di bawah
+          li 6. Pada saat clone memerlukan acces internet
+
+      section(data-bespoke-state='emphatic')
         h2 6. Forking
         p Forking adalah murni fitur dari Github. Fitur ini tidak terdapat pada Git. Forking digunakan untuk meng-clone suatu repository milik suatu akun github ke dalam account kita. 
         p Jadi, saat kita melakukan forking, sejatinya kita melakukan git clone ke suatu repository di Github dan meletakkan clone repository tersebut ke dalam account kita di Github. 
@@ -109,7 +129,7 @@ html
 
     footer
       .container
-        p.text-muted.text-muted-center
+        p.text-muted.text-muted-right
           | <a href='#1'>1</a>
           | <a href='#2'>2</a>
           | <a href='#3'>3</a>
@@ -125,6 +145,9 @@ html
           | <a href='#13'>13</a>
           | <a href='#14'>14</a>
           | <a href='#15'>15</a>
+          | <a href='#16'>16</a>
+          | <a href='#17'>17</a>
+          | <a href='#18'>18</a>
 
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
