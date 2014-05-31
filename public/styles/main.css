@@ -284,4 +284,37 @@ li {
 a {
   color: #13daec;
   text-decoration: none;
+  padding: 10px;
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+/* Margin bottom by footer height */
+  margin-bottom: 50px;
+}
+footer {
+  position: absolute;
+  top: 90.6%;
+  width: 100%;
+/* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: slide-background;
+}
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+.container {
+  width: auto;
+  max-width: 1024px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+.text-muted-center {
+  text-align: center;
 }
