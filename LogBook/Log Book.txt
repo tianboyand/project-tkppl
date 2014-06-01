@@ -140,3 +140,20 @@ Daily Scrum
   1. Semalam saya mencari informasi tentang "Verifikasi Email"
   2. Hari ini saya mencari "Cara Clone Repository di Server ke komputer Lokal kita"
   3. tidak ada kendala hari ini
+
+1/6
+Daily Scrum
+  (Septian Rahmat):
+  1. Semalam saya
+  2. Hari ini saya
+  3. Saya ada di kendala saat
+
+  (Abidin):
+  1. Semalam saya
+  2. Hari ini saya
+  3. Saya ada di kendala saat
+
+  (Wilson Chairil):
+  1. Semalam saya
+  2. Hari ini saya
+  3. Saya ada di kendala saat
