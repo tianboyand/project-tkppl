@@ -267,11 +267,9 @@ hr {
 }
 ul {
   list-style: none;
-  text-align: left;
 }
 li {
   margin-bottom: 12px;
-  text-align: left;
 }
 p {
   font-size: 14px;
@@ -280,7 +278,6 @@ p {
   line-height: 20px;
 }
 li {
-  text-align: center;
   font-size: 14px;
 }
 a {
