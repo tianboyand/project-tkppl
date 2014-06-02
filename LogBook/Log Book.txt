@@ -144,16 +144,16 @@ Daily Scrum
 1/6
 Daily Scrum
   (Septian Rahmat):
-  1. Semalam saya
-  2. Hari ini saya
-  3. Saya ada di kendala saat
+  1. Semalam saya mencari informasi tentang " Pengaturan SSH "
+  2. Hari ini saya mencari informasi mengenai " STAR "
+  3. Tidak ada kendala
 
   (Abidin):
-  1. Semalam saya
-  2. Hari ini saya
-  3. Saya ada di kendala saat
+  1. Semalam saya mencari informasi tentang " Forking "
+  2. Hari ini saya mencari informasi mengenai " Watch "
+  3. Tidak ada kendala
 
   (Wilson Chairil):
-  1. Semalam saya
-  2. Hari ini saya
-  3. Saya ada di kendala saat
+  1. Semalam saya mencari informasi tentang " Clone repository di server ke komputer lokal kita "
+  2. Hari ini saya mencari informasi mengenai "  Follow "
+  3. Tidak ada kendala
