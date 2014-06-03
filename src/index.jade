@@ -110,6 +110,37 @@ html
       section(data-bespoke-state='emphatic')
         h2 4. Pengaturan SSH
         p Github menyediakan 2 cara umum untuk melakukan koneksi ke repository kita. Yaitu dengan protocol https dan SSH. Memakai protocol SSH lebih aman dan nyaman karena kita tidak perlu memasukkan username dan password Github kita tiap kali kita melakukan Push. Untuk mengaktifkan protocol SSH di Github kita, terlebih dahulu kita harus men-setting SSH di komputer lokal kita. Kita generate dulu public key untuk SSH kita
+        code.language-javascript
+          ~$ ssh-keygen -t rsa -C [email_anda]
+        hr
+        p Secara default, key SSH akan digenerate di directory /home/user_anda/.ssh. Email anda adalah email yang anda verifikasi di github tadi.
+
+      section(data-bespoke-state='emphatic')
+        p Selanjutnya adalah men-setting Git kita. Kita setting nama dan email pada global config Github 
+        hr
+        code.language-javascript
+          ~$ git config --global user.name [nama_anda] 
+        code.language-javascript
+          ~$ git config --global user.email [email_anda]
+        
+      section(data-bespoke-state='emphatic')
+        p Langkah terakhir adalah mendaftarkan public key ssh kita ke Github. Caranya adalah masuk ke Setting, pilih SSH Keys dan masukkan title beserta isi dari public key SSH kita yaitu isi dari file /home/user/.ssh/id_rsa.pub
+        hr
+        <img src="../images/ssh-register.png" />
+        hr
+        p Klik tombol Add Key dan masukkan konfirmasi password. Masukkan password Github anda dan tekan enter.
+
+      section(data-bespoke-state='emphatic')
+        Untuk memastikan apakah kita sudah punya akses SSH ke Github, kita akan coba melakukan koneksi ke Github via SSH
+        hr
+        code.language-javascript
+          ~$ ssh -vT git@github.com
+        hr
+        p Hi entung! You've successfully authenticated, but GitHub does not provide shell access.
+
+
+
+
 
       
       section(data-bespoke-state='emphatic')
