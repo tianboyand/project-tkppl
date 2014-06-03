@@ -141,9 +141,9 @@ Daily Scrum
   2. Hari ini saya mencari "Cara Clone Repository di Server ke komputer Lokal kita"
   3. tidak ada kendala hari ini
 
-1/6
+2/6
 Daily Scrum
-  (Septian Rahmat):
+  (Septian Rahman):
   1. Semalam saya mencari informasi tentang " Pengaturan SSH "
   2. Hari ini saya mencari informasi mengenai " STAR "
   3. Tidak ada kendala
@@ -156,4 +156,21 @@ Daily Scrum
   (Wilson Chairil):
   1. Semalam saya mencari informasi tentang " Clone repository di server ke komputer lokal kita "
   2. Hari ini saya mencari informasi mengenai "  Follow "
+  3. Tidak ada kendala
+
+3/6
+Daily Scrum
+  (Septian Rahman):
+  1. 
+  2. 
+  3. 
+
+  (Abidin):
+  1. Semalam saya mencari informasi tentang " Watch "
+  2. Hari ini saya mencari informasi mengenai " membuat account baru di GitHub [Lanjutan] Sertakan gambarnya "
+  3. Tidak ada kendala
+
+  (Wilson Chairil):
+  1. Semalam saya mencari informasi tentang " Follow "
+  2. Hari ini saya mencari informasi mengenai " Verifikasi Email [Lanjutan] sertakan gambarnya "
   3. Tidak ada kendala
