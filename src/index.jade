@@ -154,19 +154,21 @@ html
           ~$ ssh -vT git@github.com
         hr
         p Hi entung! You've successfully authenticated, but GitHub does not provide shell access.
+        
 
-      
       section(data-bespoke-state='emphatic')
         h2 5. Clone repository
-        P Cara clone repository ke komputer kita :
-        ul
-          li 1. Copykan alamat lokasi project url kita di github.com
-          li 2. Kemudian buka sourtree > pilih clone/new
-          li 3. Paste alamat url kita pada baris source patch/url
-          li 4. Pilih lokasi penyimpanan
-          li 5. Lalu pilih clone di bawah
-          li 6. Pada saat clone memerlukan acces internet
-
+        p Setelah kita membuat Repository di Github, saatnya kita menambah file ke dalam repository kita tersebut. Supaya mudah, kita clone terlebih dahulu repository kita di Github ke komputer lokal kita. Git adalah Distributed Version Control System, distributed yang dimaksud disini salah satunya adalah distributed repository. Oleh karena itu, untuk mengambil file di server, kita tidak melakukan checkout seperti di Subversion, tapi kita meng-clone (menggandakan) repo di server ke komputer lokal kita. Sehingga kita akan mempunyai dua repository nantinya, yaitu repository di server dan repository di komputer lokal.
+      
+      section(data-bespoke-state='emphatic')
+        p Kita dapat mengclone melalui protocol https atau SSH. Di artikel sebelumnya kita sudah men-setting SSH key kita di Github, dan kita akan menggunakannya untuk meng-clone repository. Rumusnya sederhana, yaitu git clone [url repository]. URL repository dapat kita ambil di halaman repository kita di Github. Lihat gambar dibawah ini 
+        hr
+        <img src="../images/url-clone.png" />
+        hr
+        code.language-javascript
+          ~$ git@github.com:glendmaatita/Tolkien.git
+        hr
+        p Git akan meng-clone repo kita di Github ke directory dimana perintah diatas dijalankan. Jika kita menjalankan perintah git remote -v Git akan memberitahu URL dari remote repository kita
       section(data-bespoke-state='emphatic')
         h2 6. Forking
         p Forking adalah murni fitur dari Github. Fitur ini tidak terdapat pada Git. Forking digunakan untuk meng-clone suatu repository milik suatu akun github ke dalam account kita. 
