@@ -32,10 +32,14 @@ Sprint 1:
 Scrummaster: Septian Rahman (121111559)
 
 Sprint 2:
+29/5 - 31/5
+scrummaster: Abidin (121110456)
 
+Sprint 3:
+2/6 - 4/6
+scrummaster: Irwan (121110464)
 
-Sprint 3: 
-
+sprint 4:
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -92,7 +96,7 @@ Daily Scrum
 
 29/5 
 Daily Scrum
-  (Septian Rahmat):
+  (Septian Rahman):
   1. Semalam saya mencari "GitHub for windows"
   2. Hari ini saya mencari informasi tentang "Akun GitHub"
   3. tidak ada kendala hari ini
@@ -109,7 +113,7 @@ Daily Scrum
 
 30/5 
 Daily Scrum
-  (Septian Rahmat):
+  (Septian Rahman):
   1. Semalam saya mencari informasi tentang "Akun GitHub"
   2. Hari ini saya mencari informasi tentang "Cara membuat Account Baru di GitHub"
   3. tidak ada kendala hari ini
@@ -126,7 +130,7 @@ Daily Scrum
 
 31/5 
 Daily Scrum
-  (Septian Rahmat):
+  (Septian Rahman):
   1. Semalam saya mencari Cara membuat Account baru di GItHub
   2. Hari saya mencari Informasi mengenai "Pengaturan SSH"
   3. tidak ada kendala hari ini
@@ -161,8 +165,8 @@ Daily Scrum
 3/6
 Daily Scrum
   (Septian Rahman):
-  1. 
-  2. 
+  1. Semalam saya
+  2. Hari ini saya
   3. 
 
   (Abidin):
@@ -173,4 +177,21 @@ Daily Scrum
   (Wilson Chairil):
   1. Semalam saya mencari informasi tentang " Follow "
   2. Hari ini saya mencari informasi mengenai " Verifikasi Email [Lanjutan] sertakan gambarnya "
+  3. Tidak ada kendala
+
+4/6
+Daily scrum
+  (Septian Rahman):
+  1. Semalam saya mencari informasi tentang " pengaturan SSH [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi mengenai " clone repository [lanjutan] dan sertakan gambarnya"
+  3. Tidak ada Kendala
+
+  (Abidin):
+  1. Semalam saya mencari informasi tentang " membuat account baru di GitHub [Lanjutan] dan Sertakan gambarnya "
+  2. Hari ini saya mencari informasi mengenai " Forking [Lanjutan] dan Sertakan gambarnya "
+  3. Tidak ada kendala
+
+  (Wilson Chairil):
+  1. Semalam saya mencari informasi tentang " verifikasi email [Lanjutan] dan sertakan gambarnya "
+  2. Hari ini saya mencari informasi mengenai " membuat repository baru [Lanjutan] dan sertakan gambarnya"
   3. Tidak ada kendala
