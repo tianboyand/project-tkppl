@@ -195,3 +195,20 @@ Daily scrum
   1. Semalam saya mencari informasi tentang " verifikasi email [Lanjutan] dan sertakan gambarnya "
   2. Hari ini saya mencari informasi mengenai " membuat repository baru [Lanjutan] dan sertakan gambarnya"
   3. Tidak ada kendala
+
+5/6
+Daily scrum
+  (Septian Rahman): 
+  1. Semalam saya mencari informasi tentang " Pengaturan SSH [lanjutan] dan sertakan gambarnya "
+  2. Hari ini saya mencari informasi tentang " Star [lanjutan] dan sertakan gambarnya "
+  3. Tidak ada Kendala
+
+  (Abidin):
+  1. Semalam saya mencari informasi tentang " membuat account baru di Github [lanjutan] dan sertakan gambarnya "
+  2. Hari ini saya mencari informasi tentang " Watch [lanjutan] dan sertakan gambarnya "
+  3. Tidak ada kendala
+
+  (Irwan):
+  1. Semalam saya mencari informasi tentang " Pull Request [lanjutan] dan sertakan gambarnya "
+  2. Hari ini saya mencari informasi tentang " Bug Tracking [lanjutan] dan sertakan gambarnya "
+  3. Tidak ada kendala
