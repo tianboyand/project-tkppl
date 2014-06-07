@@ -229,3 +229,20 @@ Daily scrum
   1. Semalam saya mencari informasi tentang " Bug Tracking [lanjutan] dan sertakan gambarnya "
   2. Hari ini saya mencari informasi tentang " cara "Clone" di Source "
   3. Tidak ada kendala
+
+7/6
+Daily scrum
+  (Septian Rahman): 
+  1. Semalam saya mencari informasi tentang " cara "Pull" di Sourcetree "
+  2. Hari ini saya mencari informasi tentang " Cara Commit dengan Sourcetree "
+  3. Tidak ada Kendala
+
+  (Abidin):
+  1. Semalam saya mencari informasi tentang " cara install Sourcetree "
+  2. Hari ini saya mencari informasi tentang " cara Merge dengan Sourcetree "
+  3. Tidak ada Kendala
+
+  (Irwan ):
+  1. Semalam saya mencari informasi tentang " cara "Clone" di Source "
+  2. Hari ini saya mencari informasi tentang " cara Push di Sourcetree dengan Terminal "
+  3. Tidak ada kendala
