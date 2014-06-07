@@ -329,7 +329,30 @@ html
           li 2. pindahkan file yang akan di commit ke "staged Changes"
           li 3. pada commit message, isikan apa saja yang anda lakukan di project anda yang sudah di pindahkan ke Staged Changes
           li 4. lalu klik Commit
-        
+
+      section(data-bespoke-state='emphatic')
+        h2 Cara Merge
+        p Jika anda bekerja dalam sebuah tim, ada saatnya anda dan rekan anda akan mengubah suatu berkas secara bersamaan. Misalnya pada skenario berikut, yang sering terjadi:
+
+        ul
+        li Jika anda bekerja dalam sebuah tim, ada saatnya anda dan rekan anda akan mengubah suatu berkas secara bersamaan. Misalnya pada skenario berikut, yang sering terjadi:
+        li Sebelum anda selesai membuat perubahan, rekan anda juga melakukan perubahan pada berkas konfigurasi tersebut. Tetapi karena perubahan yang dilakukan rekan hanya sedikit, dianya bisa langsung mengirimkan perubahan tersebut ke server sebelum anda;
+        li Sekarang saat anda mau mengirimkan perubahan yang anda lakukan akan muncul konflik dimana berkas dasar yang anda ubah bukan lagi berkas yang ada di server, karena sudah diubah oleh rekan anda;
+        li Karena Git tidak cukup cerdas untuk menggabungkan perubahan-perubahan ini maka Git akan akan menyerahkan tugas ini ke anda. Dimana Git akan: menggagalkan proses push anda dengan menampilkan pesan konflik, meminta anda untuk melakukan proses merge (=penggabungan), dan selesai digabungkan baru dicoba untuk di-push lagi.
+
+      section(data-bespoke-state='emphatic')
+        p Pesan konflik yang muncul saat anda push, kira-kira, akan seperti ini:
+        <a href="https://github.com/" target="_blank"> <img src="../images/merge.png" width="405" height="120" alt="Fitur Github" /></a>
+        p Disini Git meminta anda untuk pull (=menarik) versi paling terkini dari server, gabungkan dengan perubahan yang anda lakukan, dan push hasil penggabungan ini. 
+        p Perhatikan pada saat anda melakukan proses pull, Git akan memberikan pesan kesalahan konflik lagi tetapi sekarang seperti ini:
+        <a href="https://github.com/" target="_blank"> <img src="../images/merge1.png" width="405" height="120" alt="Fitur Github" /></a>
+
+      section(data-bespoke-state='emphatic')
+        p Dimana Git berusaha untuk menggabungkan berkas anda secara otomatis (=Auto-merging) tetapi gagal dan meminta anda untuk melakukannya. Untuk menandai mana saja yang menjadi masalah, Git akan menandai, pada berkas yang bermasalah, baris-baris yang mengalami konflik. Tandanya kira-kira seperti ini: 
+        <a href="https://github.com/" target="_blank"> <img src="../images/merge2.png" width="405" height="120" alt="Fitur Github" /></a>
+        p Perhatikan berkas asli anda tidak hilang dan akan disimpan dengan nama yang sama tetapi diberi akhiran .orig.
+        p Cara paling mudah melakukan penggabungan ya langsung diubah berkas ini dan di-push lagi. 
+         
     footer
       .container
         p.text-muted.text-muted-right
