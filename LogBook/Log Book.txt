@@ -148,18 +148,18 @@ Daily Scrum
 2/6
 Daily Scrum
   (Septian Rahman):
-  1. Semalam saya mencari informasi tentang " Pengaturan SSH "
-  2. Hari ini saya mencari informasi mengenai " STAR "
+  1. Semalam saya mencari informasi tentang "Pengaturan SSH"
+  2. Hari ini saya mencari informasi mengenai "STAR"
   3. Tidak ada kendala
 
   (Abidin):
-  1. Semalam saya mencari informasi tentang " Forking "
-  2. Hari ini saya mencari informasi mengenai " Watch "
+  1. Semalam saya mencari informasi tentang "Forking"
+  2. Hari ini saya mencari informasi mengenai "Watch"
   3. Tidak ada kendala
 
   (Wilson Chairil):
-  1. Semalam saya mencari informasi tentang " Clone repository di server ke komputer lokal kita "
-  2. Hari ini saya mencari informasi mengenai "  Follow "
+  1. Semalam saya mencari informasi tentang "Clone repository di server ke komputer lokal kita"
+  2. Hari ini saya mencari informasi mengenai "Follow"
   3. Tidak ada kendala
 
 3/6
@@ -170,79 +170,79 @@ Daily Scrum
   3. 
 
   (Abidin):
-  1. Semalam saya mencari informasi tentang " Watch "
-  2. Hari ini saya mencari informasi mengenai " membuat account baru di GitHub [Lanjutan] Sertakan gambarnya "
+  1. Semalam saya mencari informasi tentang "Watch"
+  2. Hari ini saya mencari informasi mengenai " membuat account baru di GitHub [Lanjutan] Sertakan gambarnya"
   3. Tidak ada kendala
 
   (Wilson Chairil):
-  1. Semalam saya mencari informasi tentang " Follow "
-  2. Hari ini saya mencari informasi mengenai " Verifikasi Email [Lanjutan] sertakan gambarnya "
+  1. Semalam saya mencari informasi tentang "Follow"
+  2. Hari ini saya mencari informasi mengenai "Verifikasi Email [Lanjutan] sertakan gambarnya"
   3. Tidak ada kendala
 
 4/6
 Daily scrum
   (Septian Rahman):
-  1. Semalam saya mencari informasi tentang " pengaturan SSH [lanjutan] dan sertakan gambarnya"
-  2. Hari ini saya mencari informasi mengenai " clone repository [lanjutan] dan sertakan gambarnya"
+  1. Semalam saya mencari informasi tentang "pengaturan SSH [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi mengenai "clone repository [lanjutan] dan sertakan gambarnya"
   3. Tidak ada Kendala
 
   (Abidin):
-  1. Semalam saya mencari informasi tentang " membuat account baru di GitHub [Lanjutan] dan Sertakan gambarnya "
-  2. Hari ini saya mencari informasi mengenai " Forking [Lanjutan] dan Sertakan gambarnya "
+  1. Semalam saya mencari informasi tentang "membuat account baru di GitHub [Lanjutan] dan Sertakan gambarnya"
+  2. Hari ini saya mencari informasi mengenai "Forking [Lanjutan] dan Sertakan gambarnya"
   3. Tidak ada kendala
 
   (Wilson Chairil):
-  1. Semalam saya mencari informasi tentang " verifikasi email [Lanjutan] dan sertakan gambarnya "
-  2. Hari ini saya mencari informasi mengenai " membuat repository baru [Lanjutan] dan sertakan gambarnya"
+  1. Semalam saya mencari informasi tentang "verifikasi email [Lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi mengenai "membuat repository baru [Lanjutan] dan sertakan gambarnya"
   3. Tidak ada kendala
 
 5/6
 Daily scrum
   (Septian Rahman): 
-  1. Semalam saya mencari informasi tentang " Pengaturan SSH [lanjutan] dan sertakan gambarnya "
-  2. Hari ini saya mencari informasi tentang " Star [lanjutan] dan sertakan gambarnya "
+  1. Semalam saya mencari informasi tentang "Pengaturan SSH [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi tentang "Star [lanjutan] dan sertakan gambarnya"
   3. Tidak ada Kendala
 
   (Abidin):
-  1. Semalam saya mencari informasi tentang " membuat account baru di Github [lanjutan] dan sertakan gambarnya "
-  2. Hari ini saya mencari informasi tentang " Watch [lanjutan] dan sertakan gambarnya "
+  1. Semalam saya mencari informasi tentang "membuat account baru di Github [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi tentang "Watch [lanjutan] dan sertakan gambarnya "
   3. Tidak ada kendala
 
   (Irwan):
-  1. Semalam saya mencari informasi tentang " Pull Request [lanjutan] dan sertakan gambarnya "
-  2. Hari ini saya mencari informasi tentang " Bug Tracking [lanjutan] dan sertakan gambarnya "
+  1. Semalam saya mencari informasi tentang "Pull Request [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi tentang "Bug Tracking [lanjutan] dan sertakan gambarnya"
   3. Tidak ada kendala
 
 6/6
 Daily scrum
   (Septian Rahman): 
-  1. Semalam saya mencari informasi tentang " Star [lanjutan] dan sertakan gambarnya "
-  2. Hari ini saya mencari informasi tentang " cara "Pull" di Sourcetree "
+  1. Semalam saya mencari informasi tentang "Star [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi tentang "cara "Pull" di Sourcetree"
   3. Tidak ada Kendala
 
   (Abidin):
-  1. Semalam saya mencari informasi tentang " Watch [lanjutan] dan sertakan gambarnya "
-  2. Hari ini saya mencari informasi tentang " cara install Sourcetree "
+  1. Semalam saya mencari informasi tentang "Watch [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi tentang "cara install Sourcetree"
   3. kendala : error pada saat push
 
   (Irwan ):
-  1. Semalam saya mencari informasi tentang " Bug Tracking [lanjutan] dan sertakan gambarnya "
-  2. Hari ini saya mencari informasi tentang " cara "Clone" di Source "
+  1. Semalam saya mencari informasi tentang "Bug Tracking [lanjutan] dan sertakan gambarnya"
+  2. Hari ini saya mencari informasi tentang "cara "Clone" di Source"
   3. Tidak ada kendala
 
 7/6
 Daily scrum
   (Septian Rahman): 
-  1. Semalam saya mencari informasi tentang " cara "Pull" di Sourcetree "
-  2. Hari ini saya mencari informasi tentang " Cara Commit dengan Sourcetree "
+  1. Semalam saya mencari informasi tentang "cara "Pull" di Sourcetree"
+  2. Hari ini saya mencari informasi tentang "Cara Commit dengan Sourcetree"
   3. Tidak ada Kendala
 
   (Abidin):
-  1. Semalam saya mencari informasi tentang " cara install Sourcetree "
-  2. Hari ini saya mencari informasi tentang " cara Merge dengan Sourcetree "
+  1. Semalam saya mencari informasi tentang "cara install Sourcetree"
+  2. Hari ini saya mencari informasi tentang "cara Merge dengan Sourcetree"
   3. Tidak ada Kendala
 
   (Irwan ):
-  1. Semalam saya mencari informasi tentang " cara "Clone" di Source "
-  2. Hari ini saya mencari informasi tentang " cara Push di Sourcetree dengan Terminal "
+  1. Semalam saya mencari informasi tentang "cara "Clone" di Source"
+  2. Hari ini saya mencari informasi tentang "cara Push di Sourcetree dengan Terminal"
   3. Tidak ada kendala
